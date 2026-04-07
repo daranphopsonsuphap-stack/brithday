@@ -21,7 +21,7 @@ window.onload = () => {
             intro.style.display = 'none';
             document.getElementById('card-scene').style.display = 'block';
         }, 1000);
-    }, 16500); 
+    }, 15000); 
 };
 
 // 3. Matrix Rain Effect
